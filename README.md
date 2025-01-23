@@ -26,7 +26,7 @@ Feel free to reach out!
 - Career Advice in AI & ML  
 
 ### 📫 How to Reach Me
-- **LinkedIn**: [Aditya Varma](https://www.linkedin.com/in/adityavarma)  
+- **LinkedIn**: [Aditya Varma](https://www.linkedin.com/in/aditya-varma-a01a56116/)  
 - **GitHub**: [iamadityavarma](https://github.com/iamadityavarma)  
 - **Email**: adityaganapathiraju@gmail.com  
 
