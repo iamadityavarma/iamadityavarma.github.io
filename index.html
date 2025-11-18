@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Aditya Varma | Data Scientist & Software Engineer</title>
+    <title>Aditya Varma | Building Scalable Data Pipelines & ML Systems</title>
     <!-- Tailwind CSS CDN -->
     <link
       href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
@@ -22,6 +22,7 @@
       href="https://unpkg.com/aos@2.3.1/dist/aos.css"
       rel="stylesheet"
     />
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
     <style>
       /* Apply Times New Roman to all text */
@@ -106,15 +107,15 @@
           <!-- Text Content Area -->
           <div class="w-full md:w-3/4">
             <h1 class="text-2xl md:text-3xl font-semibold mb-4 text-gray-800 dark:text-gray-100 font-serif" data-aos="fade-up">
-              Data Scientist, Software Engineer &amp; Machine Learning Enthusiast
+              Building Scalable Data Pipelines &amp; ML Systems
             </h1>
             <p class="text-base leading-relaxed text-gray-600 dark:text-gray-300 mb-8 font-serif" data-aos="fade-up" data-aos-delay="200">
-              Hey I am Aditya. I'm a passionate technologist who thrives on solving complex puzzles at the intersection of software and data.
-              Over the past five years, I honed my skills as a Software Engineer, building robust applications and optimizing backend services.
-              I discovered a deep fascination for data science and machine learning, leading me to develop intelligent solutions.
-              My experience includes developing NLP-based mental health chatbots, optimizing backend services, and data visualization
-              through tools like Tableau and Power BI. I'm proficient in Python, SQL, cloud technologies, and predictive modeling.
-              I aim to create innovative, impactful systems that bridge the gap between software and data science.
+              Hey, I'm Aditya—a Data Engineer with 6+ years of experience building scalable data pipelines and 
+              cloud-native analytics platforms across AWS & GCP. Currently at Aetna, I lead enterprise data migrations 
+              and architect CI/CD-driven ingestion workflows using Apache Airflow and Dataflow. My expertise spans 
+              Python, SQL, Spark, and managing structured/unstructured data to enable reliable, ML-ready delivery. 
+              I'm passionate about bridging the gap between data engineering and machine learning to create intelligent, 
+              impactful systems that transform raw data into actionable insights.
             </p>
             <!-- Social Media Links -->
             <div class="flex flex-wrap gap-3 items-center" data-aos="fade-up" data-aos-delay="400">
@@ -293,12 +294,13 @@
     </footer>
 
     <!-- Scripts -->
-    <!-- AOS Script for scroll animations -->
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
-      AOS.init({
-        duration: 1000,
-      });
+      // Initialize AOS after library is loaded
+      if (typeof AOS !== 'undefined') {
+        AOS.init({
+          duration: 1000,
+        });
+      }
 
       // Theme Toggle Functionality
       const themeToggleBtn = document.getElementById("theme-toggle");
