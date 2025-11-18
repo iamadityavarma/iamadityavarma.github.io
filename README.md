@@ -1,38 +1,40 @@
-## Hi there 👋 I'm Aditya Varma!
+## Hi there, I'm Aditya Varma!
 
-### 🚀 About Me
-I’m a graduate student in **Data Science and Business Analytics** at **Wayne State University**, with over 5 years of professional experience in building **machine learning models**, **data pipelines**, and **scalable systems**. I specialize in transforming raw data into actionable insights and delivering impactful solutions.
+### About Me
+Data Engineer with **6+ years of experience** building scalable data pipelines and cloud-native analytics platforms across **AWS & GCP**. Currently working at **Aetna** leading enterprise data modernization initiatives.
 
-- 🧠 **Core Skills**: Machine Learning, NLP, Data Analysis, MLOps, Python, SQL, Big Data Technologies
-- 📈 **Professional Experience**: Worked at leading organizations like Infosys, TCS, and General Motors, contributing to cutting-edge projects in **customer targeting**, **risk management**, and **AI model deployment**.
-- 🔬 **Research Interests**: Time-Series Forecasting, Uplift Modeling, Deep Learning for Healthcare, and Reinforcement Learning.
+- **Core Skills**: Python, SQL, Spark, PySpark, Databricks, ETL/ELT, Apache Airflow, Dataflow
+- **Cloud & Platforms**: GCP (BigQuery, Dataflow, GCS), AWS (Glue, Lambda, S3)
+- **Data Quality & Governance**: Great Expectations, Data Catalog
+- **DevOps**: Git, Docker, CI/CD
 
-### 🌱 What I’m Currently Working On
-- Building a **mental health chatbot** using **LLM** models like **LLaMA**, with multi-dataset training and sentiment analysis integration.
-- Enhancing my skills in **System Design** for large-scale applications.
-- Preparing for competitive roles in **quantitative research** and **machine learning engineering**.
+### Professional Experience
+- **Data Engineer @ Aetna** - Leading Teradata to GCP migration, architecting CI/CD-driven ingestion pipelines
+- **AI Data Engineer @ Proxzar.ai** - Built NER systems for financial text, automated ingestion workflows
+- **Data Intern @ General Motors** - Developed scalable ETL workflows using Azure Databricks + Spark
+- **Technology Analyst @ Infosys** - Engineered ETL pipelines for fraud detection across 15M+ transactions
+- **System Engineer @ TCS** - Modernized trading risk applications, containerized 20+ components
 
-### 🤝 Let’s Collaborate
-I’m always excited to work on **data-driven projects** that solve real-world problems! If you're looking for a collaborator on:
-- Advanced **machine learning** and **data science** projects
-- Open-source tools for **AI/ML** or **NLP**
-- Innovative **AI solutions for healthcare**, **finance**, or **retail**
+### Featured Project
+**V2X Collision Prediction with ML** - Built an end-to-end AI/ML pipeline for predicting collisions involving vulnerable road users using V2X communication data, with LSTM and Transformer models integrated with W&B for experiment tracking.
 
-Feel free to reach out! 
+### Education
+- **M.S. in Data Science and Business Analytics** - Wayne State University (GPA: 3.93/4.0) - Dec 2024
+- **M.Tech in Software Engineering** - BITS Pilani - Dec 2023
+- **B.E. in Mechanical Engineering** - Sri Sairam Engineering College - May 2018
 
-### 💬 Ask Me About
-- Data Science Project Pipelines  
-- Machine Learning in Production (MLOps)  
-- Career Advice in AI & ML  
+### Let's Collaborate
+I'm excited to work on **data engineering projects** that solve real-world problems:
+- Scalable **data pipelines** and **ETL/ELT** workflows
+- **Cloud-native analytics** platforms (AWS/GCP)
+- **ML-ready data delivery** and feature engineering
 
-### 📫 How to Reach Me
-- **LinkedIn**: [Aditya Varma](https://www.linkedin.com/in/aditya-varma-a01a56116/)  
-- **GitHub**: [iamadityavarma](https://github.com/iamadityavarma)  
-- **Email**: adityaganapathiraju@gmail.com  
-
-### ⚡ Fun Fact
-When I’m not diving deep into data, you’ll find me exploring **trading strategies**, mentoring budding data scientists, or hiking at beautiful places like **Sleeping Bear Dunes**!  
+### How to Reach Me
+- **LinkedIn**: [Aditya Varma](https://www.linkedin.com/in/aditya-varma-a01a56116/)
+- **GitHub**: [iamadityavarma](https://github.com/iamadityavarma)
+- **Email**: adityaganapathiraju@gmail.com
+- **Portfolio**: [iamadityavarma.github.io](https://iamadityavarma.github.io)
 
 ---
 
-✨ Let’s connect and make an impact together! 
+Let's connect and build something impactful!
